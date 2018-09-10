@@ -14592,9 +14592,6 @@
   <LocaleResource Name="Common.Edit">
     <Value>Edit</Value>
   </LocaleResource>
-  <LocaleResource Name="Common.Extensions.RelativeFormat">
-    <Value>{0} ago</Value>
-  </LocaleResource>
   <LocaleResource Name="Common.Error">
     <Value>Error</Value>
   </LocaleResource>
@@ -14648,6 +14645,9 @@
   </LocaleResource>
   <LocaleResource Name="Common.OK">
     <Value>OK</Value>
+  </LocaleResource>
+  <LocaleResource Name="Common.RelativeDateTime.Past">
+    <Value>{0} ago</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Remove">
     <Value>Remove</Value>
